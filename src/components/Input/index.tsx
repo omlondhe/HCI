@@ -1,6 +1,6 @@
-import React, { forwardRef, useId, useState } from "react";
-import { cn } from "../../utils/classNames";
 import { IInputProps } from "./types";
+import { cn } from "../../utils/classNames";
+import { forwardRef, useId, useState } from "react";
 
 const Input = forwardRef<HTMLInputElement, IInputProps>(
 	(

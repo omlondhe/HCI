@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import { IDashboardProps } from "./types";
 import Header from "./Header";
 import NASAPost from "./NASAPost";

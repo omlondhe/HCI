@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import { IHeaderProps } from "./types";
 
 const Header: FC<IHeaderProps> = ({ user, setUser }) => {
